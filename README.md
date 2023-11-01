@@ -1,4 +1,4 @@
-# Programme du bootcamp AZ-900 sur cinq (5) jours :
+# Programme du bootcamp AZ-900 sur six (6) jours
 
 La première session sera animé par moi-même Ghislain MADJOULBA et portera essentiellement sur l'introduction de Microsoft Azure. Nous allons par la suite activer des comptes Azure for students aux inscrits afin de mettre en pratique les notions apprise tout au long du bootcamp.
 
