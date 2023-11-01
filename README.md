@@ -28,3 +28,12 @@ Jour 5: 03/02/2024
 - Automatisation et DevOps (modèles ARM, PowerShell, CLI, DevTest Labs)
 - Services d'intégration (SQL, Cache Redis, Service Bus, Event Hubs)
 - Préparation et révision de l'examen
+
+Jour 6: 10/02/2024
+- Technologies de l'intelligence artificielle sur Azure
+- Présentation d'Azure OpenAI: qu'est-ce que c'est, cas d'usage, fonctionnalités
+- Démonstration de la génération de texte avec GPT-3
+- Atelier pratique: Utiliser l'API OpenAI pour générer du texte à partir de prompts
+- Démonstration de la reconnaissance d'image avec CLIP
+- Démonstration de la recherche d'image par contenu avec DALL-E
+- Discussion sur les enjeux éthiques de l'IA
