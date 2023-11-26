@@ -18,11 +18,12 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 - Atelier pratique: Travailler avec le stockage d'objets blob, de fichiers et de tables
 - Services de sécurité et d'identité (Azure AD, RBAC)
 
-## Jour 4: _Système réseau et sécurité sur Azure_ 27/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba)
-- Services réseau (VNet, Passerelle VPN, Équilibreur de charge, DNS, CDN)  
-- Atelier pratique: Mettre en œuvre l'équilibrage de charge et le routage du trafic Web
-- Services de surveillance et de gestion (Surveillance, Sauvegarde, Récupération de site)
-- Firewall in Azure
+## Jour 4: _Sécurité sur Microsoft Azure_ 27/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba)
+- Introduction à la sécurité dans le cloud
+- Services de sécurité Azure
+- Implémentation de la sécurité
+- Meilleures pratiques de sécurité  
+- Atelier pratique: 
 
 ## Jour 5: _Ingénierie logicielle, automatisation et déploiement_ 03/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
 - Ressources et facturation (abonnements, groupes, étiquettes, quotas, tarification)
