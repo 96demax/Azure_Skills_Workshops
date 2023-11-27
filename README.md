@@ -4,7 +4,7 @@ Ce repository est un repo de planning et de résumé de mes sessions lors des di
 Il contient éssentiellement des Bootcamps et des Workshop structurés et animé par moi-même [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) et d'autres avec des invités du domaine.
 
 > [!important]
-> No prior knowledge on Cloud computing or Artificial Intelligence needed for participants. Let's bring our teauching magic and skill them in understanding manner :) **And more importan, all the session will be held in french, the audience is french native speaker**.
+> No prior knowledge on Cloud computing or Artificial Intelligence needed for participants. Let's bring our teauching magic and skill them in an understanding manner :) And more importantly, **all the sessions will be held in french**, 'cause the audience is French native speakers. **`Time 7 PM GMT | 8 PM WAT | 2 PM EST | 11 AM PST | 0:30 AM IST`**
 
 
 * [ ] [Bootcamp AZ900 Janvier 2024](./az900-bootcamp.md)
