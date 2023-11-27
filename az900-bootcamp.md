@@ -41,4 +41,4 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 
 ---
 > [!NOTE]
-> Le programme couvre tous les principaux objectifs de l'examen AZ-900 par le biais de cours magistraux, de démos et d'ateliers pratiques. Les ateliers permettent aux étudiants d'appliquer leurs connaissances dans un environnement de sandbox. Prévoyez 2-3 heures de cours/démos et 2-3 heures d'ateliers guidés par jour.
+> Le programme couvre tous les principaux objectifs de l'examen AZ-900 par le biais de cours magistraux, de démos et d'ateliers pratiques. Les ateliers permettent aux étudiants d'appliquer leurs connaissances dans un environnement de sandbox. Prévoyez 2-3 heures de cours/démos et 10-15 minutes de pause pour votre session. Deux à trois heures car dependamment du programme de la session.
