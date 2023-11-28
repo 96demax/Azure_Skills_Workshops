@@ -8,29 +8,25 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 - Portails d'administration Azure (Portail, ACC, CLI, PowerShell)
 - Services fondamentaux d'Azure (Calcul, Stockage, Réseau)
 
-## Jour 2: _Aperçu des services Azure_ 13/01/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
-- Services de calcul Azure (VM, VM Scale Sets, Services conteneurisés)  
-- Déployer et gérer les machines virtuelles
-- Atelier pratique: Créer et configurer des machines virtuelles
+## Jour 2: _Fondamentaux des services Azure_ 13/01/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+- Introduction aux Services Azure   
+- Services de Calcul et Déploiement de Machines Virtuelles 
+- Services de Stockage Azure
+- Services de Sécurité et d'Identité
 
-## Jour 3: _Services Azure avancés_ 20/01/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
-- Services de stockage Azure (Comptes de stockage, Objets blob, Fichiers, Files d'attente, Tables)
-- Atelier pratique: Travailler avec le stockage d'objets blob, de fichiers et de tables
-- Services de sécurité et d'identité (Azure AD, RBAC)
-
-## Jour 4: _Sécurité sur Microsoft Azure_ 27/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba)
+## Jour 3: _Sécurité sur Microsoft Azure_ 27/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba)
 - Introduction à la sécurité dans le cloud
 - Services de sécurité Azure
 - Implémentation de la sécurité
 - Meilleures pratiques de sécurité  
 - Atelier pratique: 
 
-## Jour 5: _Ingénierie logicielle, automatisation et déploiement_ 03/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+## Jour 4: _Ingénierie logicielle, automatisation et déploiement_ 03/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
 - Ressources et facturation (abonnements, groupes, étiquettes, quotas, tarification)
 - Automatisation et DevOps (modèles ARM, PowerShell, CLI, DevTest Labs)
 - Services d'intégration (SQL, Cache Redis, Service Bus, Event Hubs)
 
-## Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+## Jour 5: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
 - Technologies de l'intelligence artificielle sur Azure
 - Présentation d'Azure OpenAI: qu'est-ce que c'est, cas d'usage, fonctionnalités
 - Démonstration de la génération de texte avec GPT-3
