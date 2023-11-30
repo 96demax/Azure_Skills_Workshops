@@ -10,9 +10,10 @@ Il contient éssentiellement des Bootcamps et des Workshop structurés et animé
 * [ ] [Bootcamp AZ-900 Janvier 2024](./az900-bootcamp.md)
   - [ ] Jour 1: _Introduction au cloud computing et Microsoft Azure_ 06/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://youtube.com/@mlsatogo)
   - [ ] Jour 2: _Fondamentaux des services Azure_ 13/01/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
-  - [ ] Jour 3: _Sécurité sur Microsoft Azure_ 27/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://youtube.com/@mlsatogo)
-  - [ ] Jour 4: _Ingénierie logicielle, automatisation et déploiement_ 03/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
-  - [ ] Jour 5: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+  - [ ] Jour 3: _Sécurité sur Microsoft Azure_ 20/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://youtube.com/@mlsatogo)
+  - [ ] Jour 4: _Ingénierie logicielle, automatisation et déploiement_ 27/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+  - [ ] Jour 5: _Session Q/A & Divers_ 03/02/2024 - [**`Geoffrey LOGOVI & Ghislain MADJOULBA`**]
+  - [ ] Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
 
 * [ ] [Mes Workshops](./workshops.md)
   - [ ] Workshop 1: **_Introduction au Cloud Computing & Microsoft Azure_ - 02/12/2023** - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://youtube.com/@mlsatogo) **`Pre-Bootcamp`**
