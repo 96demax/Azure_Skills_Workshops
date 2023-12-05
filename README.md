@@ -13,8 +13,8 @@ Il contient éssentiellement des Bootcamps et des Workshop structurés et animé
   - [ ] Jour 3: _Sécurité sur Microsoft Azure_ 20/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://youtube.com/@mlsatogo)
   - [ ] Jour 4: _Ingénierie logicielle, automatisation et déploiement_ 27/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
   - [ ] Jour 5: _Session Q/A & Divers_ 03/02/2024 - [**`Geoffrey LOGOVI & Ghislain MADJOULBA`**]
-  - [ ] Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+  - [ ] Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**`Hadil BEN AMOR`**](https://www.linkedin.com/in/hadil-ben-amor-777a981ba/)
 
 * [ ] [Mes Workshops](./workshops.md)
-  - [ ] Workshop 1: **_Introduction au Cloud Computing & Microsoft Azure_ - 02/12/2023** - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://youtube.com/@mlsatogo) **`Pre-Bootcamp`**
+  - [ ] Workshop 1: **_Introduction au Cloud Computing & Microsoft Azure_ - 02/12/2023** - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) - [Video YT](https://www.youtube.com/watch?v=AQ_OkXqheuQ) **`Pre-Bootcamp`**
   - [ ] Workshop 2: **_titre_ - date fait** - [Video YT](https://youtube.com/url)
