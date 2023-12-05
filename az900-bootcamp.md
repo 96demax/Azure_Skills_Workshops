@@ -26,7 +26,7 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 
 ## Jour 5: _Session Q/A & Divers_ 03/02/2024 - [**`Geoffrey LOGOVI & Ghislain MADJOULBA`**]
 
-## Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+## Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**`Hadil BEN AMOR`**](https://www.linkedin.com/in/hadil-ben-amor-777a981ba/)
 - Utilisation de l'IA avec Azure Cognitive Services et Azure Machine Learning
 - Scénarios pratiques d'intégration d'Azure AI et OpenAI dans des solutions Azure
 - Discussion sur les cas d'utilisation, les tendances et les défis dans l'intégration de l'IA dans Azure
