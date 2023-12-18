@@ -19,7 +19,7 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 - Gestion des identités et des accès avec Azure AD et RBAC
 - La Gouvernance sur Microsoft Azure 
 
-## Jour 4: _Ingénierie logicielle, Automatisation et Déploiement_ 27/02/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+## Jour 4: _Ingénierie logicielle, Automatisation et Déploiement_ 27/01/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
 - Pratiques d'automatisation avec Azure Resource Manager et Infrastructure As Code (ARM Templates)
 - Intégration des processus DevOps avec Azure DevOps Services pour le déploiement continu
 - Gestion des configurations, tests et déploiements avec des outils d'ingénierie logicielle
