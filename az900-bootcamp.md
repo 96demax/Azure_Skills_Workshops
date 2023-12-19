@@ -24,7 +24,10 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 - Intégration des processus DevOps avec Azure DevOps Services pour le déploiement continu
 - Gestion des configurations, tests et déploiements avec des outils d'ingénierie logicielle
 
-## Jour 5: _Session Q/A & Divers_ 03/02/2024 - [**`Geoffrey LOGOVI & Ghislain MADJOULBA`**]
+## Jour 5: _Session Q/A & Divers_ 03/02/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba) & [**`Geoffrey LOGOVI`**](https://www.linkedin.com/in/geoffreylgv)
+- Session de Q/R relative aux difficultés sur les travaux pratiques
+- Discussions par rapport à l'évolution du Bootcamp
+- Orientation diverses
 
 ## Jour 6: _Intélligence artificielle avec azure open AI_ 10/02/2024 - [**`Hadil BEN AMOR`**](https://www.linkedin.com/in/hadil-ben-amor-777a981ba/)
 - Utilisation de l'IA avec Azure Cognitive Services et Azure Machine Learning
