@@ -8,12 +8,12 @@ La première session sera animé par moi-même [**`Ghislain MADJOULBA`**](https:
 - Aperçu des principaux concepts de réseau et de sécurité dans Azure
 - Introduction à la Gestion des Ressources sur Azure
 
-## Jour 2: _Fondamentaux des services Azure_ 13/01/2024 - [**` Nom prenom `**](https://www.linkedin.com/in/nom-prenoms)
+## Jour 2: _Services Azure_ 13/01/2024 - [**` Nathan BAPTISTA `**](https://www.linkedin.com/in/nathan-baptista-49111414b)
 - Approfondissement sur les services de calcul (VM, Azure Kubernetes Service, Azure Functions)
 - Gestion des ressources et bonnes pratiques pour les machines virtuelles et les services de calcul
 - Utilisation de ressources extensibles, évolutives et hautement disponibles
 
-## Jour 3: _Sécurité sur Microsoft Azure_ 20/01/2024 - [**`Ghislain MADJOULBA`**](https://www.linkedin.com/in/demadama-madjoulba)
+## Jour 3: _Sécurité sur Microsoft Azure_ 20/01/2024 - [**`Parfait TOLEFO`**](https://www.linkedin.com/in/tlf-parfait)
 - Politiques de sécurité pour la conformité (Azure Policy)
 - Utilisation d'Azure Security Center et Azure Monitor pour la sécurité et la surveillance continue
 - Gestion des identités et des accès avec Azure AD et RBAC
